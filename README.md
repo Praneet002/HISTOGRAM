@@ -24,8 +24,8 @@ Visualize results by plotting histograms and displaying original and equalized i
 
 ## Program:
 
-# Developed By:PRAKASH M
-# Register Number:212222100035
+# Developed By:PRANEET S
+# Register Number:212221230078
 ```
 For a grayscale image
 import cv2
